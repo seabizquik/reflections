@@ -4,3 +4,7 @@ Lesson 2 Reflections
 Reflect: Initializing a Repository: What happens when you initialize a repostuory? Why do you need to do it?
 
 1. a .git file is created, allowing you to same commits to the repository
+
+Reflect: Staging Area: How is the staging area different from the working directory and the reposutory? What value do you think it offers?
+
+1. The staging area is a kind of intermediary area between the working directory and the repository. It allows one to remove things before they are commited, and gives the programmer the ability to add things to the repository in batches.
