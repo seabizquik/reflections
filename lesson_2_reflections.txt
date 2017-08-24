@@ -24,3 +24,7 @@ Reflect: Visualizing with Diagrams: How do the diagrams help you visualize branc
 Reflect: Merging Two Branches: What is the result of merging two branches together? Why do we represent it in the diagram the wya we do?
 
 1. Merging two branches together brings the changes made in each branch into one. We represent it the way we do to have a record of when and where the merge happened.
+
+Reflect: Automatic vs. Manual Merging: What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+1. I am not sure I understand the difference at all.
