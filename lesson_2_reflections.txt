@@ -8,3 +8,7 @@ Reflect: Initializing a Repository: What happens when you initialize a repostuor
 Reflect: Staging Area: How is the staging area different from the working directory and the reposutory? What value do you think it offers?
 
 1. The staging area is a kind of intermediary area between the working directory and the repository. It allows one to remove things before they are commited, and gives the programmer the ability to add things to the repository in batches.
+
+Reflect: Commit Size: How can you use the staging area to make sure you have one commit per logical change?
+
+1. The staging area will allow you to see the changes made before commits. If you find your commit message being too lengthy or outlining too many changes, you may need to make smaller commits.
