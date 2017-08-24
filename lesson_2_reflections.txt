@@ -16,3 +16,7 @@ Reflect: Commit Size: How can you use the staging area to make sure you have one
 Reflect: When to Use Branches: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 1. Branches would help for making different versions of a program or when you are trying something experimental. This way you have the freedom to change your code with the assurance that the Master branch is still available to go back to. You can also have multiple versions of a program so you can compare them. 
+
+Reflect: Visualizing with Diagrams: How do the diagrams help you visualize branch structure?
+
+1. Branch diagrams allow you to see in a geometrical diagram where each branch was created and what commits were made to each branch.
