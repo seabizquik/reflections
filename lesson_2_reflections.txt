@@ -1,0 +1,6 @@
+
+Lesson 2 Reflections
+
+Reflect: Initializing a Repository: What happens when you initialize a repostuory? Why do you need to do it?
+
+1. a .git file is created, allowing you to same commits to the repository

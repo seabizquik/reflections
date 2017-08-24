@@ -1,0 +1,26 @@
+lesson_1_reflections.txt
+
+Reflection: How did viewing a diff between two versions help you spot the bug.
+
+1. I was able to practice reading code more closely.
+2. I did not have to sort through hundreds of lines of code to find differences.
+
+Reflect: Manual Commits: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+1. Only you, the programmer, knows what you are working on, and since it is wise to create commits for each logical change, you are the best judge of this. Being able to create commits for each logical change ensures that the commits are neither too large or too small.
+
+Reflect: Multi-File Commits: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+1. In Git, programmers are using multiple interrelated files that need to work with one another to allow a program to run. By saving multiple files concurrently, Git ensure that the program/project as a whole is up to date.
+
+Reflect: Using Git to View History: How can you use the commands git log and git diff to ciew the history of files?
+
+1. You can use git log to see all the commits for the files, then git diff to find the changes made between commits.
+
+Reflect: Confidence from Version Control: How mught using version control make you more confident to make changes that could break something?
+
+1. With version control, there is a reduced risk of breaking something permanently, since you can always track the changes to your code and checkout earlier commits to find exactly what change broke the code.
+
+Reflect: How Do You Want to Use Git?: Now that you have your workspace set up, what do you want to try using Git for?
+
+1. I intent to use Git to practice coding and to learn more about Accessible coding practices.
