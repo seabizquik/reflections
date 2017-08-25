@@ -19,3 +19,7 @@ Reflect: Local copies of remote branches: What is the benefit of having a copy o
 Reflect: Collaboration using Git and GitHub: How would you collaborate using Git or GitHub? What would be easier and what would be harder?
 
 1. You can create separate branches on a project, then share them with collaboarators, making comments on each others work. It would be easier to work on the code from any machine and to see the most up to date repo. It would be a little harder to work together, since people could be making simultaneous changes and with so many different branches it could become confusing.
+
+Reflect: When to use a separate branch: When would you want to make changes in a separate branch rather than directly in master? What benefits does each have?
+
+1. You would want to use a separate branch if you are making changes that could break something in the master branch, or if you are working on a different version. This will also allow others to look at this separate branch on GitHub. 
