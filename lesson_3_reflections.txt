@@ -1,1 +1,3 @@
+Reflect: Using a remote repository: When would you want to use a remote repository rather than keeping all your work local?
 
+1. Remote repositories are useful when several different people are working together or when you are working from multiple machines.
