@@ -12,3 +12,10 @@ Reflect: Forks, Clones, and Branches: Describe the differences between forks, cl
 2. Clones are local copies of repositories - when you want to work on code from your own machine
 3. Branches are changes off a single repository - used when making experimental changes or creating different versions
 
+Reflect: Local copies of remote branches: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+1. If you are working with others, it ensures that you are working on the most up-to-date files. 
+
+Reflect: Collaboration using Git and GitHub: How would you collaborate using Git or GitHub? What would be easier and what would be harder?
+
+1. You can create separate branches on a project, then share them with collaboarators, making comments on each others work. It would be easier to work on the code from any machine and to see the most up to date repo. It would be a little harder to work together, since people could be making simultaneous changes and with so many different branches it could become confusing.
