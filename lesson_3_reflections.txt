@@ -1,3 +1,7 @@
 Reflect: Using a remote repository: When would you want to use a remote repository rather than keeping all your work local?
 
 1. Remote repositories are useful when several different people are working together or when you are working from multiple machines.
+
+Reflect: Manual vs. automatic pull: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+1. If you are working with a team, it's good to all be working from the same version in GitHub. It is also good to know yourself when your remote updated, since it might be confusing if it updated in the middle of a task.
