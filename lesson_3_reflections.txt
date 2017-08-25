@@ -5,3 +5,10 @@ Reflect: Using a remote repository: When would you want to use a remote reposito
 Reflect: Manual vs. automatic pull: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 1. If you are working with a team, it's good to all be working from the same version in GitHub. It is also good to know yourself when your remote updated, since it might be confusing if it updated in the middle of a task.
+
+Reflect: Forks, Clones, and Branches: Describe the differences between forks, clones, and branches. When would you use one or the other?
+
+1. Forks are copies of others' repositories on GitHub - used when you want to work on their code but don't want to change the origin version
+2. Clones are local copies of repositories - when you want to work on code from your own machine
+3. Branches are changes off a single repository - used when making experimental changes or creating different versions
+
