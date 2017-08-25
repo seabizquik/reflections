@@ -27,4 +27,4 @@ Reflect: Merging Two Branches: What is the result of merging two branches togeth
 
 Reflect: Automatic vs. Manual Merging: What are the pros and cons of Git's automatic merging vs. always doing merges manually?
 
-1. I am not sure I understand the difference at all.
+1. Automatic merging merges when no issues are found. This is faster and easier than merging manually, but won't work if there are discrepencies in the codes.
